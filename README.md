@@ -42,7 +42,7 @@ eba@cloud:~$ uptime
 
 ```
 --->
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=e-300&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&hide_rank=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=e-300&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" height="150" />
 </p>
