@@ -2,7 +2,7 @@
 I'm Ebad — a senior Computer Science student graduating December 2026.   
 I'm interested in systems engineering, reverse engineering, and building software in the infrastructure layer.  
 Most recently I was at IBM contributing to OpenCost, a CNCF incubating project, and its enterprise sibling Kubecost.  
-I've also built eBPF tooling in Rust using ([Aya](https://aya-rs.dev/)) for network observability.  
+I've also built eBPF tooling in Rust using [Aya](https://aya-rs.dev/) for network observability.  
 Previously worked in C, C++, and Python but my current stack is Go and Rust.  
 Currently exploring GPU cost attribution for AI/ML inference workloads.
 
