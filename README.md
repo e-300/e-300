@@ -13,6 +13,7 @@ Lifting weights, and recently getting back into jiu-jitsu.
 Reading philosophy — Al-Ghazali and Leibniz are my favorites.  
 Lastly my cat's name is Muffin. 
 
+---
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=e-300&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&hide_rank=true" height="150" /> -->
