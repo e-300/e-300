@@ -1,60 +1,18 @@
+## Hey! 
+I'm Ebad — a senior Computer Science student graduating December 2026.   
+I'm interested in systems engineering, reverse engineering, and building software in the infrastructure layer.  
+Most recently I was at IBM contributing to OpenCost, a CNCF incubating project, and its enterprise sibling Kubecost.  
+I've also built eBPF tooling in Rust using ([Aya](https://aya-rs.dev/)) for network observability.  
+Previously worked in C, C++, and Python but my current stack is Go and Rust.  
+Currently exploring GPU cost attribution for AI/ML inference workloads.
 
+### Outside of work
 
-<!--
-**e-300/e-300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Homelabber — ran my own Kubernetes cluster on bare metal Linux for about five months. Completely overkill for what I was actually doing, but I learned a lot.  
+Lifting weights, and recently getting back into jiu-jitsu.  
+Reading philosophy — Al-Ghazali and Leibniz are my favorites.  
+Lastly my cat's name is Muffin. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...  Building an http server to learn go, will be building http protocol from scratch (tcp) next 
-- 🌱 I’m currently learning ...    
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
-
-
-- 🔭 I’m currently working on ...  Building an http server to learn go, will be building http protocol from scratch (tcp) next 
-- 
-
-
-```
-e-300@root:~$ whoami
-  cloud-native systems engineer
-  currently learning and building with go
-  incoming swe @ ibm — kubecost/opencost team
-
-e-300@root:~$ cat /etc/stack
-  lang        go · python · bash · sql
-  os          linux · macos
-  runtime     kubernetes · docker · containerd
-  infra       terraform · proxmox · kvm
-  gitops      argocd · github-actions · ci/cd
-  observe     prometheus · grafana
-  cloud       aws · azure
-  data        snowflake · postgresql
-
-e-300@root:~$ ls ~/projects
-  opencost/               # cncf finops cost allocation engine
-  docker-from-scratch/    # container runtime rebuilt in python
-  tailscale-mcp-agent/    # remote ops ai agent over tailscale
-  k3s-homelab/            # bare-metal gitops cluster
-
-e-300@root:~$ cat ~/.certs
-  aws-saa-c03       ██████████ passed
-  wgu-bscs          ██████░░░░ in progress
-
-e-300@root:~$ echo $INTERESTS
-  finops · cncf ecosystem · systems programming · kubernetes internals
-
-e-300@root:~$ cat ~/.contact
-  github        github.com/e-300
-  linkedin      linkedin.com/in/yourhandle
-
-e-300@root:~$ █
-```
---->
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=e-300&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&hide_rank=true" height="150" /> -->
@@ -62,4 +20,17 @@ e-300@root:~$ █
 </p>
 &nbsp;
 
- 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/eBPF-0d1117?style=flat-square&logo=linux&logoColor=58a6ff" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&logo=prometheus&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Argo_CD-0d1117?style=flat-square&logo=argo&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=58a6ff" />
+</p>
