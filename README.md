@@ -6,13 +6,6 @@ I've also built eBPF tooling in Rust using [Aya](https://aya-rs.dev/) for networ
 Previously worked in C, C++, and Python but my current stack is Go and Rust.  
 Currently exploring GPU cost attribution for AI/ML inference workloads.
 
-### Outside of work
-
-Homelabber — ran my own Kubernetes cluster on bare metal Linux for about five months. Completely overkill for what I was actually doing, but I learned a lot.  
-Lifting weights, and recently getting back into jiu-jitsu.  
-Reading philosophy — Al-Ghazali and Leibniz are my favorites.  
-Lastly my cat's name is Muffin. 
-
 ---
 
 <p align="center">
